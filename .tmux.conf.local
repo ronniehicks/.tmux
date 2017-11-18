@@ -265,3 +265,12 @@ tmux_conf_copy_to_os_clipboard=false
 
 # move status line to top
 #set -g status-position top
+
+# Plugins
+# list plugins to be installed here
+# set -g @tmp_plugins '       \
+#     tmux-plugins/tpm        \
+# '
+
+# Initialize TMUX Plugin Manager
+# run '~/.tmux/plugins/tmp/tmp'
